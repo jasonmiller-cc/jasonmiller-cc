@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/jasonmiller-cc -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1761489717991-a69fe927032f?ixlib=rb-4.1.0&w=1600&h=420&fit=crop&crop=center&q=80&fm=jpg" alt="Abstract blue digital interface banner" width="100%">
+  <img src="assets/banner.jpg" alt="Jason Lee Miller banner: engineer reviewing cost and performance dashboards" width="100%">
 </p>
 
 <h1 align="center">Jason Lee Miller</h1>
@@ -222,5 +222,5 @@ timeline
 
 <p align="center">
   <sub>📍 Placentia, Orange County, CA · Working with teams anywhere</sub><br>
-  <sub>Images: <a href="https://unsplash.com/@resaasadi?utm_source=jasonmiller-cc_profile&utm_medium=referral">Reza Asadi</a>, <a href="https://unsplash.com/@hyewonphotography?utm_source=jasonmiller-cc_profile&utm_medium=referral">HYEWON HWANG</a>, and <a href="https://unsplash.com/@zoshuacolah?utm_source=jasonmiller-cc_profile&utm_medium=referral">Zoshua Colah</a> on <a href="https://unsplash.com/?utm_source=jasonmiller-cc_profile&utm_medium=referral">Unsplash</a></sub>
+  <sub>Images: <a href="https://unsplash.com/@hyewonphotography?utm_source=jasonmiller-cc_profile&utm_medium=referral">HYEWON HWANG</a> and <a href="https://unsplash.com/@zoshuacolah?utm_source=jasonmiller-cc_profile&utm_medium=referral">Zoshua Colah</a> on <a href="https://unsplash.com/?utm_source=jasonmiller-cc_profile&utm_medium=referral">Unsplash</a></sub>
 </p>
