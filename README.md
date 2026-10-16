@@ -83,6 +83,14 @@ I turn fragile, hand-built infrastructure into **automated, observable, and audi
 | **[SyntaxRoot](https://syntaxroot.cc)** | ITSM and CMDB for lean IT teams and MSPs: incident, problem, and change management, CMDB relationship mapping with cloud discovery, SLA tracking, and a knowledge base | AWS Lambda, API Gateway, RDS PostgreSQL, Terraform, GitHub Actions, Cloudflare |
 | **[Subnet Calculator](https://subnet.thoughtparameters.com)** | Free IPv4/IPv6 subnet calculator for network and cloud engineers | Gatsby, Cloudflare Pages |
 
+**Follow Thought Parameters:**
+<a href="https://www.linkedin.com/company/thoughtparameters/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Thought Parameters on LinkedIn"></a>
+<a href="https://www.facebook.com/thoughtparameters"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Thought Parameters on Facebook"></a>
+<a href="https://x.com/thoughtparams"><img src="https://img.shields.io/badge/X-@thoughtparams-000000?style=flat-square&logo=x&logoColor=white" alt="Thought Parameters on X"></a>
+<a href="https://www.instagram.com/thoughtparametersllc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Thought Parameters on Instagram"></a>
+<a href="https://www.threads.com/@thoughtparametersllc"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Thought Parameters on Threads"></a>
+<a href="https://github.com/ThoughtParameters"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Thought Parameters on GitHub"></a>
+
 **How we engage:** short sprints or long-term embeds · **C2C**, **1099**, or **W-2** · remote across the US, on-site in Southern California.
 
 <p>
