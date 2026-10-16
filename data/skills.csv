@@ -1,0 +1,44 @@
+Category,Skill,Level,Years,Where I've Used It
+Cloud,AWS (EC2 / VPC / IAM / RDS / S3 / Lambda / API Gateway / Route 53),Expert,10+,"Thought Parameters, David's Bridal, Fidelity Life, Workday"
+Cloud,Google Cloud Platform (GKE / IAM / Cloud Build),Advanced,3+,Thought Parameters
+Cloud,Microsoft Azure,Proficient,3+,Consulting engagements
+Cloud,Cloudflare (DNS / Pages / Workers / WAF),Advanced,3+,Thought Parameters
+Infrastructure as Code,Terraform,Expert (HashiCorp Certified),8+,"Thought Parameters, SyntaxRoot, Fidelity Life, David's Bridal"
+Infrastructure as Code,AWS CloudFormation,Advanced,6+,"David's Bridal, Fidelity Life"
+Configuration Management,Ansible,Expert,10+,"Netflix, David's Bridal, Thought Parameters"
+Configuration Management,Puppet / MCollective,Expert,10+,"Netflix, Fidelity Life, Apple"
+Configuration Management,Chef (ChefSpec),Advanced,3+,Workday
+Configuration Management,SaltStack,Advanced,2+,Heartflow
+Containers & Orchestration,Kubernetes / k3s / Helm,Advanced,6+,"David's Bridal, Thought Parameters"
+Containers & Orchestration,Docker / Podman,Expert,8+,All recent roles
+CI/CD,GitHub Actions,Expert (GitHub Foundations),5+,"Thought Parameters, SyntaxRoot"
+CI/CD,Jenkins,Expert,12+,"Netflix, Workday, Fidelity Life"
+CI/CD,Octopus Deploy / packagecloud.io,Advanced,5+,Fidelity Life
+CI/CD,GitLab / Bamboo,Advanced,5+,"Fidelity Life, David's Bridal"
+Observability,Splunk (Enterprise & Cloud / HEC / SPL),Advanced,5+,"Netflix, David's Bridal"
+Observability,Elasticsearch / Kibana / Fluent Bit,Advanced,3+,"Thought Parameters (Fluent Bit at David's Bridal)"
+Observability,New Relic (APM / Synthetics),Advanced,3+,David's Bridal
+Observability,Sentry,Advanced,4+,Fidelity Life
+Observability,Zabbix,Advanced,2+,Thought Parameters
+Security & Compliance,DevSecOps / Shift-Left Security,Expert,8+,All recent roles
+Security & Compliance,IAM / Least Privilege / Zero Trust,Expert,10+,All recent roles
+Security & Compliance,"Vulnerability Management (Orca, Tenable, Checkmarx)",Advanced,6+,"David's Bridal, Fidelity Life"
+Security & Compliance,"SIEM / IPS (Splunk, AlienVault)",Advanced,5+,David's Bridal
+Security & Compliance,"PCI DSS / HIPAA / SOC 2 Readiness / CIS Benchmarks",Advanced,8+,"David's Bridal, Fidelity Life, Thought Parameters"
+Security & Compliance,"FreeIPA / Active Directory / Kerberos / RADIUS",Advanced,10+,"Thought Parameters, David's Bridal"
+Networking,"IPsec / GRE / BGP / VPN / MikroTik",Advanced,10+,Thought Parameters
+Networking,"Load Balancing (F5 iRules, A10, Nginx)",Advanced,10+,"iControl, Netflix"
+Networking,"DNS / DHCP / IPAM (BlueCat)",Expert,15+,"Netflix, iControl"
+Operating Systems,"Linux (RHEL, Rocky, CentOS, Ubuntu, Debian, Gentoo)",Expert,15+,All roles
+Operating Systems,Windows Server,Advanced,10+,"Fidelity Life, JL Miller Electric"
+Virtualization,"VMware ESX / vSphere, Proxmox, KVM, Xen, CloudStack",Expert,15+,"Netflix, iControl, Thought Parameters"
+Languages,Python,Expert,10+,"Automation, Flask apps, SDK tooling"
+Languages,Bash,Expert,15+,All roles
+Languages,Ruby,Advanced,8+,"Puppet, Chef, Fidelity Life"
+Languages,Go,Proficient,3+,"Kubernetes tooling, GitHub Actions"
+Languages,"JavaScript / TypeScript",Proficient,3+,"Web apps, SyntaxRoot"
+Languages,PowerShell,Proficient,5+,Windows automation
+Languages,SQL (PostgreSQL / MySQL),Advanced,10+,"SyntaxRoot, platform databases"
+AI & Automation,"Claude Code / Amazon Bedrock / Strands Agents / MCP",Advanced,2+,Thought Parameters
+AI & Automation,"GitHub Copilot / ChatGPT / Codex / Ollama / Gemini",Advanced,2+,Thought Parameters
+FinOps,"Cloud Cost Optimization / Account Consolidation",Expert,5+,"David's Bridal, Thought Parameters"

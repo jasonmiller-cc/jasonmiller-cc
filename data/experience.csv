@@ -1,0 +1,11 @@
+Start,End,Company,Role,Location,Highlights,Stack
+2024,Present,Thought Parameters LLC,Founder & Chief Executive Officer,"Placentia, CA","Built and run SyntaxRoot, a serverless ITSM/CMDB platform; deliver DevOps, cloud, and security engagements for clients","AWS, GCP, Terraform, GitHub Actions, Kubernetes, Cloudflare"
+2023,Present,"JL Miller Electric, Inc.",System Engineer & Corporate Secretary,"Placentia, CA","Moved corporate web presence to serverless static hosting; set Windows/Linux patching baselines","Cloudflare, Linux, Windows Server"
+2022,2023,David's Bridal Inc.,Technical Architect,"Conshohocken, PA","Cut AWS spend $2,000/month by consolidating 10 accounts; Splunk HEC + Fluent Bit pipelines; New Relic synthetics across 300+ storefront pages; PCI remediation via Orca","AWS, Kubernetes, Ansible, Splunk Cloud, New Relic, Orca"
+2015,2021,Fidelity Life Association,Senior DevOps Engineer,"Chicago, IL","Jenkins pipelines gating GitLab merges with Checkmarx scans; MCollective + Puppet release framework; Sentry self-hosted to SaaS migration","AWS, Terraform, Puppet, Jenkins, Octopus Deploy, Sentry"
+2014,2015,"Alma, Inc.",DevOps Engineer,"Portland, OR","Automated deployment and test pipelines; embedded on-site to accelerate delivery","CI/CD, Linux, scripting"
+2014,2014,"Heartflow, Inc.",Senior System Engineer / DevOps,"Redwood City, CA","SaltStack deployment automation in a regulated medical-device environment","SaltStack, Linux"
+2012,2014,"Workday, Inc.",Infrastructure Engineering,"Pleasanton, CA","Audited 10,000+ servers with InfoSec via orchestration; Chef cookbooks with ChefSpec CI across 7 international sites","Chef, MCollective, Jenkins, AWS"
+2011,2012,"Apple, Inc.",System Engineer,"Cupertino, CA","High-availability infrastructure for a 3,000+ seat research organization; reproducible Gentoo build overlays","Puppet, Gentoo, Linux"
+2011,2012,Netflix (DVD / Qwikster),System Engineer,"Los Gatos, CA","Zero-downtime Jenkins CI/CD migration during the Qwikster split; Puppet rollout across 2,000+ servers and a 10,000+ instance CloudStack cloud","Puppet, CloudStack, Jenkins, Kickstart, BlueCat"
+2008,2011,"iControl, Inc.",System Engineer,"Redwood City, CA","F5 iRules / A10 automation; PXE + iDRAC zero-touch provisioning cut bare-metal build time 75%","F5, A10, VMware ESX, Kickstart"
