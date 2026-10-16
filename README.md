@@ -193,6 +193,7 @@ timeline
 - [Killing the Hero Culture](https://www.jasonmiller.cc/blogs/killing-the-hero-culture/)
 - [Understanding Your Impact](https://www.jasonmiller.cc/blogs/understanding-your-impact/)
 - [Github Workflows](https://www.jasonmiller.cc/blogs/github-workflows/)
+- [Résumé](https://www.jasonmiller.cc/resume/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Auto-updated daily from [jasonmiller.cc](https://www.jasonmiller.cc). More on [LinkedIn](https://www.linkedin.com/in/jasonmiller-cc/recent-activity/all/).</sub>
