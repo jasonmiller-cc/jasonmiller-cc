@@ -199,14 +199,6 @@ timeline
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonmiller-cc&bg_color=0d1117&color=58a6ff&line=1d4ed8&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%">
-</p>
-
----
-
 ## 🤝 Work With Me
 
 <p align="center">
